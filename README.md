@@ -34,6 +34,9 @@ A) Logistic Regression chosen because it is used as a baseline when comparing ot
 Report on the scores for Logistic Regression model using Solvers to tune:
 
 Dev score - Logistic Regression Accuracy Train set: 0.92921875
+
 Train score - Logistic Regression Accuracy Dev set: 0.9167857142857143
+
 Test score - Logistic Regression Model Accuracy (after tuning solver): 0.9170714285714285
+
 F1-score: 0.9170714285714285 Hardest class: 9 
