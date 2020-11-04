@@ -1,12 +1,12 @@
-## MNIST-Classification
+# MNIST-Classification
 Classification using MNIST handwritten dataset, applying Logistic Regression &amp; Decision Trees to get to the best accuracy, F1 scores and classification report.
 
-# MNIST Logistic Regression & Decision Trees
+## MNIST Logistic Regression & Decision Trees
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
 
-# Two Machine Learning Algos chosen
+## Two Machine Learning Algos chosen
 
-# 1) Decision Trees
+## 1) Decision Trees
 
 A) Decision Trees chosen as using a decision tree for classification is an alternative methodology to logistic regression. Can handle data of different types, including continuous, categorical, ordinal, and binary. Transformations of the data are not required. Can be useful for detecting important variables, interactions, and identifying outliers. (https://webfocusinfocenter.informationbuilders.com/wfappent/TLs/TL_rstat/source/DecisionTree47
 
@@ -27,7 +27,7 @@ F1-score: 0.9739285714285715 Hardest class the models struggled with: 10
 The Classification Report gives us a good indication of the other scores achieved.
 
 
-# 2) Logistic Regression
+## 2) Logistic Regression
 
 A) Logistic Regression chosen because it is used as a baseline when comparing other models. Logistic Regression is also used when most dependent variables are numeric.
 
