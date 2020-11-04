@@ -6,10 +6,9 @@ The MNIST database of handwritten digits has a training set of 60,000 examples, 
 
 # Two Machine Learning Algos chosen
 
-#1) Decision Trees
+# 1) Decision Trees
 
 A) Decision Trees chosen as using a decision tree for classification is an alternative methodology to logistic regression. Can handle data of different types, including continuous, categorical, ordinal, and binary. Transformations of the data are not required. Can be useful for detecting important variables, interactions, and identifying outliers. (https://webfocusinfocenter.informationbuilders.com/wfappent/TLs/TL_rstat/source/DecisionTree47
-
 
 Report on the scores for Decision Trees model:
 
