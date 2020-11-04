@@ -1,5 +1,5 @@
 ## MNIST-Classification
-Classification using the MNIST and applying Logistic Regression &amp; Decision Trees to get to the best accuracy
+Classification using MNIST handwritten dataset, applying Logistic Regression &amp; Decision Trees to get to the best accuracy, F1 scores and classification report.
 
 # MNIST Logistic Regression & Decision Trees
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
